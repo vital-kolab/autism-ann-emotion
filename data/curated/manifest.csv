@@ -1,0 +1,3 @@
+file,description
+figure4B_phenotype_matched_corr_imagelevel.csv,Image-level base and synthesized ASD-NT gaps from leave-one-image-out correlation phenotype-matched validation. Sufficient to regenerate Figure 4B.
+figure4B_phenotype_matched_corr_summary.csv,"Summary statistics for Figure 4B: mean base gap, synth gap, reduction, SEM, t-test, and sign-flip p-value."

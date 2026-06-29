@@ -1,0 +1,2 @@
+SelectionRule,PercentileThreshold,PredictedDeltaThreshold,NSelected,AnnPointX_MeanBehaviorGap,AnnPointXErr,AnnPointY_NImages,AnnPointYErr,Note
+summary table_group_mean_top35pct_by_clip_pred_delta_abs,65,0.05108537615092063,28,0.11273454573214592,0.0,28,0.0,"Summary-table point from curated image-level group means. For exact cross-validated error bars, add nt_matrix.csv, asd_matrix.csv, and clip_scores.csv."
